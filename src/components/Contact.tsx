@@ -51,9 +51,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Офис</h4>
-                  <p className="text-gray-600">
-                    г. Москва, ул. Медицинская, д. 15, офис 201
-                  </p>
+                  <p className="text-gray-600">г. Саки, ул. Школьная, д. 15</p>
                 </div>
               </div>
 
@@ -76,9 +74,9 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                  <p className="text-gray-600">info@medstrah.ru</p>
+                  <p className="text-gray-600">artem.myrzilka@gmail.com</p>
                   <p className="text-gray-600">
-                    claims@medstrah.ru (страховые случаи)
+                    pikachusnikers@gmail.com (страховые случаи)
                   </p>
                 </div>
               </div>
