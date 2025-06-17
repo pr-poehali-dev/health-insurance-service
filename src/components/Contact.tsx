@@ -107,7 +107,7 @@ const Contact = () => {
                 номеру:
               </p>
               <p className="text-xl font-bold text-emerald-600">
-                +7 (800) 911-24-24
+                +7 (978) 813-31-54
               </p>
             </div>
           </div>
