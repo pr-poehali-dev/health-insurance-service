@@ -80,7 +80,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2">
                 <Icon name="Mail" size={16} />
-                <span>info@medstrah.ru</span>
+                <span>artem.myrzilka@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Icon name="MapPin" size={16} />
