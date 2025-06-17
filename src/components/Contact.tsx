@@ -65,7 +65,7 @@ const Contact = () => {
                   <h4 className="font-semibold text-gray-900 mb-1">Телефон</h4>
                   <p className="text-gray-600">+7 (978) 813-31-54</p>
                   <p className="text-gray-600">
-                    +7 (800) 123-45-68 (бесплатный)
+                    +7 (978) 764-51-34 (бесплатный)
                   </p>
                 </div>
               </div>
